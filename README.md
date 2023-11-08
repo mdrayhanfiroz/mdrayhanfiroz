@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdrayhanfiroz
 - 👀 I’m interested in Android Apps, Web Application Development, DevOps & AWS.
 - 🌱 I’m learning SQL Server, Node.js, .Net Framework & Angular.
-- 💞️ I’m looking to collaborate on MVC.Net, .Net Core, Angular
+- 💞️ I’m looking to collaborate on ASP.Net, .Net Core, Angular
 - 📫 How to reach me email to mohdrayhanfiroz@gmail.com
 
 <!---
